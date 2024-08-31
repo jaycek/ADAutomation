@@ -1,0 +1,19 @@
+
+h1 {
+    text-transform: uppercase;
+    background-color: rgb(94, 174, 147);
+    padding: 1rem;
+    font-family:"New Amsterdam", sans-serif;
+}
+
+select {
+    padding: .3rem .91rem;
+}
+
+table td,th {
+    font-size: 19px;
+}
+
+table td {
+    padding-left: 10px;
+}
